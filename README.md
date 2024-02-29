@@ -1,1 +1,0 @@
-# project-air-quality-PRONIN
